@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C655A9621FA169C002B448F /* CalculatorService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C655A9521FA169C002B448F /* CalculatorService.swift */; };
 		8CA26A1D21E921C200BCCE1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA26A1C21E921C200BCCE1B /* AppDelegate.swift */; };
 		8CA26A1F21E921C200BCCE1B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA26A1E21E921C200BCCE1B /* ViewController.swift */; };
 		8CA26A2221E921C200BCCE1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CA26A2021E921C200BCCE1B /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C655A9521FA169C002B448F /* CalculatorService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorService.swift; sourceTree = "<group>"; };
 		8CA26A1921E921C200BCCE1B /* InfixCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InfixCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CA26A1C21E921C200BCCE1B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8CA26A1E21E921C200BCCE1B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				8CA26A2321E921C400BCCE1B /* Assets.xcassets */,
 				8CA26A2521E921C400BCCE1B /* LaunchScreen.storyboard */,
 				8CA26A2821E921C400BCCE1B /* Info.plist */,
+				8C655A9521FA169C002B448F /* CalculatorService.swift */,
 			);
 			path = InfixCalculator;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CA26A1F21E921C200BCCE1B /* ViewController.swift in Sources */,
+				8C655A9621FA169C002B448F /* CalculatorService.swift in Sources */,
 				8CA26A1D21E921C200BCCE1B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
